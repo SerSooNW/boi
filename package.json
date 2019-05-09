@@ -1,0 +1,17 @@
+{
+  "name": "Discord-Bot-Maker-Bot",
+  "author": "SooNW",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "version": "1.3.0-beta.5",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "fast-sort": "^1.5.6",
+    "fstorm": "^0.1.3",
+    "jimp": "^0.2.28",
+    "jsonpath-plus": "^0.18.0",
+    "valid-url": "^1.0.9"
+  }
+}
